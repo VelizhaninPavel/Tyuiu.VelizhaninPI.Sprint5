@@ -18,7 +18,7 @@ namespace Tyuiu.VelizhaninPI.Sprint5.Task2.V24
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
-            Console.WriteLine("* Класс File. Запись набора данных в текстовый файл                       *");
+            Console.WriteLine("* Класс File. Запись структурированных данных в текстовый файл            *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #21                                                             *");
             Console.WriteLine("* Выполнил: Велижанин Павел Ильич | ИИПб-23-3                             *");
